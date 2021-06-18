@@ -1,6 +1,6 @@
 # **DGPN**
 
-Source code and dataset for KDD 2021 paper: Zero-shot Node Classification with Decomposed Graph Prototype Network.
+Source code and dataset for KDD 2021 paper: Zero-shot Node Classification with Decomposed Graph Prototype Network [paper](https://arxiv.org/abs/2106.08022).
 
 ## **Dataset and experimental setting**
 
